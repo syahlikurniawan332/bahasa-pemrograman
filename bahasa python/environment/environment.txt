@@ -1,0 +1,12 @@
+
+//untuk membuat file nya
+E:\>python -m venv konsep pemrograman-env
+================================================
+//untuk masuk ke env yang kita buat
+E:\>cd /pemrograman-env
+================================================
+//untuk mengaktifkan env
+E:\pemrograman-env>.\scripts\activate
+================================================
+// ketika sudah aktif
+(pemrograman-env) E:\pemrograman-env>
