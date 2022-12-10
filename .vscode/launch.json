@@ -6,23 +6,16 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch Program",
-            "request": "launch",
-            "mainClass": "Program",
-            "projectName": "java_f072d974"
-        },
-        {
-            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
         },
         {
             "type": "java",
-            "name": "Launch Hello",
+            "name": "Launch App",
             "request": "launch",
-            "mainClass": "Hello",
-            "projectName": "java_f072d974"
+            "mainClass": "App",
+            "projectName": "bahasa pemrograman_4617477d"
         }
     ]
 }
